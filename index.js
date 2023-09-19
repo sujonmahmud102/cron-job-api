@@ -78,9 +78,7 @@ cron.schedule('0 0 * * *', () => {
     saveDataToFile();
     console.log('Cron Job: Deleted completed items');
 });
-
-
-
+// 
 app.listen(PORT, () => {
     console.log(`Server is running on port ${PORT}`);
 })
