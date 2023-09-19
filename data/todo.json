@@ -1,13 +1,13 @@
 [
-    {
-      "id": 1,
-      "title": "Learn Node.js",
-      "completed": false
-    },
-    {
-      "id": 2,
-      "title": "Build a CRUD API",
-      "completed": true
-    }
+  {
+    "id": "1",
+    "task": "Buy groceries",
+    "completed": false
+  },
+  {
+    "id": "2",
+    "task": "Finish work project",
+    "completed": true
+  }
   ]
   
