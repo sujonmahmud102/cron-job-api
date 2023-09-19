@@ -16,6 +16,7 @@ The base API URL is hosted at [https://cron-job-sujonmahmud102.vercel.app/](http
 
 
 ### POST "/todos"
+- **Purpose**: Create a new to-do item.
 
 
 ### PUT "/todos/:id"
